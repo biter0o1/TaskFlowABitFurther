@@ -1,0 +1,3 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/biter0o1/TaskFlowABitFurther_Front
